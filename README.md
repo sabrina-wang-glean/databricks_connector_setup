@@ -1,4 +1,5 @@
 # Databricks in Glean Setup Guide
+<!-- last updated: 2026-07-10 -->
 
 > For questions or access to the validation notebooks, ping **sabrina.wang@glean.com**
 
