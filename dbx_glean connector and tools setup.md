@@ -124,7 +124,7 @@ _Figure 5: Databricks Tools successfully configured._
 
 Before testing the browser-based OAuth flow in Glean, you can validate your Databricks configuration using the sample notebooks below.
 
-**Sample notebooks:** https://github.com/sabrina-wang-glean/databricks_connector_setup
+**Sample notebooks:** https://github.com/sabrina-wang-glean/databricks_connector_tools_setup
 
 The notebooks include examples for validating both authentication flows:
 
